@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+}
+
+table{
+    width: 100%; 
+    height: 170vh;
+    border-collapse: collapse;
+    border-color: black;
+    }
+
+/* definição das linhas */
+#linha1{
+    background-color: rgb(159, 140, 249);
+    height: 25px;
+}
+#linha2{
+    background-color: rgb(159, 140, 249);
+    height: 45px;
+}
+#linha3{
+    background-color: rgb(159, 140, 249);
+    height: 25px;
+}
+#linha4{
+    height: 40px;
+    background-color: rgb(216, 216, 216);
+}
+#linha5{
+    background-color: rgb(216, 216, 216);
+    height: 100px;
+}
+#linha6{
+    background-color: rgb(216, 216, 216);
+    height: 100px;
+}
+#linha8{
+    background-color: rgb(216,216,216);
+    height: 50px;
+}
+#linha11{
+    background-color: rgb(53, 53, 53);
+    height: 50px;
+}
+#linha12{
+    background-color: rgb(53, 53, 53);
+    height: 40px;
+}
+#linha13{
+    background-color: rgb(53, 53, 53);
+    height: 40px;
+}
+#linha14{
+    background-color: rgb(53, 53, 53);
+    height: 80px;
+}
+#linha15{
+    background-color: rgb(53,53,53);
+    height: 50px;
+}
+
+
+/*definição coluna*/
+#tdLogo1{
+    width: 220px;
+}
+#tdLogo2{
+    width: 220px;
+}
+#tdNome{
+    width: 481px;
+}
+#tdimg{
+    width: 200px;
+    height: 200px;
+}
+#tdtexto{
+    width: 400px;
+}
+
+/*definição imagens*/
+#logo1{
+    width: 110px;
+    height: 110px;
+    float: right;
+}
+#logo2{
+    width: 110px;
+    height: 110px;
+}
+#nome{
+    width: 481px;
+}
+#Facebook{
+    float: right;
+    margin-right: 10px;
+}
+#Instagram{
+    float: right;
+    margin-right: 10px;
+}
+#Phone{
+    float: right;
+    margin-right: 10px;
+}
+#ssd{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+
+
+/*definição texto*/
+
+#hard{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+    width: 50px;
+}
+#inst{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+#produto2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: underline rgb(255, 255, 255);
+}
+#sobre2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: underline rgb(255, 255, 255);
+}
+#contato2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: underline rgb(255, 255, 255);
+}
+#phone{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+#titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-align:center;
+}
+#texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    margin-left: 30px;
+}
